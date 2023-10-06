@@ -1,0 +1,12 @@
+.common_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: none;
+    color: #fff;
+    margin-left: 8px;
+    cursor: pointer;
+}

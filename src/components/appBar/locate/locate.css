@@ -1,0 +1,11 @@
+.locate_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    color: #fff;
+    border: none;
+    border-radius: 4;
+    background-color: #fff;
+    cursor: pointer;
+}
